@@ -1,1 +1,2 @@
-# trex1B
+# trexfinal
+juego del trex infinito
